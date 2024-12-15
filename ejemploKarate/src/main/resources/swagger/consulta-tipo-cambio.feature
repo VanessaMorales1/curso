@@ -13,6 +13,8 @@ Feature: Consultar el tipo de cambio por año y mes
       | 12  | 2024 |
       | 11  | 2024 |
 
+      | 10  | 2024 |
+
 #
 #  curl --location 'https://api.apis.net.pe/v2/sunat/tipo-cambio?year=2024&month=12' \
 #  --header 'Accept: application/json' \
